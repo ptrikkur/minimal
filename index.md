@@ -10,17 +10,17 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Project 1
+# Fraud Detection
 
-Fraud Detection
 
-## Project 2
 
-> Time Series Analysis
+## Time Series Analysis
+
+> 
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Project 3
+### Portfolio Creation
 
 ```js
 // Javascript code with syntax highlighting.
